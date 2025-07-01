@@ -1,0 +1,10 @@
+<INDEX REVISION="01.00.00">
+<DEVICE ID="0x4012" PRODUCTNAME="Bose SoundSport">
+<HARDWARE REVISION="01.00.00">
+<RELEASE HTTPHOST="raw.githubusercontent.com" LANGUAGES="en-us,es-mx,de,it,fr,zh-cn,nl,ja,pt-br,ko,sv" REVISION="1.5.1.680" URLPATH="/bosefirmware/ced/master/ice/">
+<IMAGE CRC="0XFFFFFFFF" FILENAME="Ice_1.5.1_stack_plus_app.dfu" LENGTH="1789686" NOFORCE="1" REVISION="1.5.1.680" SUBID="0" />
+<IMAGE CRC="0X9051597D" FILENAME="Ice_1.5.1_ext_signed.xuv" LENGTH="13128032" NOFORCE="0" REVISION="1.5.1.680" SUBID="1" TARGET="1" />
+</RELEASE>
+</HARDWARE>
+</DEVICE>
+</INDEX>
