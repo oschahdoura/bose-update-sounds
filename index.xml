@@ -2,8 +2,8 @@
 <DEVICE ID="0x4012" PRODUCTNAME="Bose SoundSport">
 <HARDWARE REVISION="01.00.00">
 <RELEASE HTTPHOST="raw.githubusercontent.com" LANGUAGES="en-us,es-mx,de,it,fr,zh-cn,nl,ja,pt-br,ko,sv" REVISION="3.0.4.950" URLPATH="/bosefirmware/ced/master/ice/">
-<IMAGE CRC="0XFFFFFFFF" FILENAME="Ice_1.5.1_stack_plus_app.dfu" LENGTH="1789686" NOFORCE="1" REVISION="3.0.4.950" SUBID="0" />
-<IMAGE CRC="0X9051597D" FILENAME="Ice_1.5.1_ext_signed.xuv" LENGTH="13128032" NOFORCE="0" REVISION="3.0.4.950" SUBID="1" TARGET="1" />
+        <IMAGE CRC="0XFFFFFFFF" FILENAME="Ice_1.2.0_stack_plus_app.dfu" LENGTH="1725528" NOFORCE="1" REVISION="3.0.4.950" SUBID="0" />
+        <IMAGE CRC="0XF0E6F5C2" FILENAME="Ice_1.2.0_ext_signed.xuv" LENGTH="13128032" NOFORCE="0" REVISION="3.0.4.950" SUBID="1" TARGET="1" />
 </RELEASE>
 </HARDWARE>
 </DEVICE>
